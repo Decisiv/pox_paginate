@@ -1,3 +1,10 @@
+== 0.2.6.dcv1
+  * Update dependencies
+	  * Rails to 3.2.0
+		* WillPaginate to 3.0.3
+		* Nokogiri to 1.5.0
+		* Add rake 0.9.2 as development dependency
+
 == 0.2.4
   * Moving to WillPaginate 3.0.0
 

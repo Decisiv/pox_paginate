@@ -1,4 +1,8 @@
-= PoxPaginate 0.2.5
+= PoxPaginate 0.2.6.dcv1
+
+Decisiv forked the gem to update some version dependencies. Below is the original README.
+
+= PoxPaginate
 
 PoxPaginate is an extension to WillPaginate and ActiveResource that makes it possible to transparently paginate over a collection of XML serialised resources.
 
